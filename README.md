@@ -1,10 +1,5 @@
 README:
 
-Steps to run and IDE:
-
-1) Used Visual Studio Code and C# dotnet compiler from Microsoft.
-2) Create a new dotnet console by typing the command "dotnet new console" in terminal. After successful creation, type "dotnet run" to execute and provide a positive integer.
-
 Steps followed:
 
 1) First, asked the user to provide a positive integer to check whether it is a prime.
