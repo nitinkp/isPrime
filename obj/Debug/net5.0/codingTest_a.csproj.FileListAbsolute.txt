@@ -1,0 +1,16 @@
+C:\Users\pnith\OneDrive\Desktop\codingTest_a\obj\Debug\net5.0\codingTest_a.csproj.AssemblyReference.cache
+C:\Users\pnith\OneDrive\Desktop\codingTest_a\obj\Debug\net5.0\codingTest_a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pnith\OneDrive\Desktop\codingTest_a\obj\Debug\net5.0\codingTest_a.AssemblyInfoInputs.cache
+C:\Users\pnith\OneDrive\Desktop\codingTest_a\obj\Debug\net5.0\codingTest_a.AssemblyInfo.cs
+C:\Users\pnith\OneDrive\Desktop\codingTest_a\obj\Debug\net5.0\codingTest_a.csproj.CoreCompileInputs.cache
+C:\Users\pnith\OneDrive\Desktop\codingTest_a\bin\Debug\net5.0\codingTest_a.exe
+C:\Users\pnith\OneDrive\Desktop\codingTest_a\bin\Debug\net5.0\codingTest_a.deps.json
+C:\Users\pnith\OneDrive\Desktop\codingTest_a\bin\Debug\net5.0\codingTest_a.runtimeconfig.json
+C:\Users\pnith\OneDrive\Desktop\codingTest_a\bin\Debug\net5.0\codingTest_a.runtimeconfig.dev.json
+C:\Users\pnith\OneDrive\Desktop\codingTest_a\bin\Debug\net5.0\codingTest_a.dll
+C:\Users\pnith\OneDrive\Desktop\codingTest_a\bin\Debug\net5.0\ref\codingTest_a.dll
+C:\Users\pnith\OneDrive\Desktop\codingTest_a\bin\Debug\net5.0\codingTest_a.pdb
+C:\Users\pnith\OneDrive\Desktop\codingTest_a\obj\Debug\net5.0\codingTest_a.dll
+C:\Users\pnith\OneDrive\Desktop\codingTest_a\obj\Debug\net5.0\ref\codingTest_a.dll
+C:\Users\pnith\OneDrive\Desktop\codingTest_a\obj\Debug\net5.0\codingTest_a.pdb
+C:\Users\pnith\OneDrive\Desktop\codingTest_a\obj\Debug\net5.0\codingTest_a.genruntimeconfig.cache
